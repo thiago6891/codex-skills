@@ -16,7 +16,7 @@ Current skills:
 Use the built-in skill installer to pull the skill directly from GitHub.
 
 ```bash
-$skill-installer --repo YOUR_GITHUB_USER_OR_ORG/codex-skills --path skills/plan
+$skill-installer --repo https://github.com/thiago6891/codex-skills --path skills/plan
 ```
 
 Restart Codex after installing to pick up the new skill.
